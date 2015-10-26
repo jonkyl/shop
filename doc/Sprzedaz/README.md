@@ -55,9 +55,9 @@ To Do.
 
 ![alt text](http://i.imgur.com/dwnz1MR.png "Diagram klas usługi Sprzedaż")
 
+![alt text](http://i.imgur.com/s5EaBPT.png "Diagram klas wszystkich usług")
 
 ![alt text](http://i.imgur.com/QB5urr1.png "Przypadki użycia dla usługi Sprzedaż")
-
 
 ##6. Change log.
 
